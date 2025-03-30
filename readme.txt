@@ -1,0 +1,1 @@
+copy build_arm_virt/kernel/kernel_all.i and trim with trim.txt

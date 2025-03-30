@@ -1,0 +1,7 @@
+remove more than one empty line:
+	awk '!NF && !a++; NF {print;a=0}' kernel_final.c >kernel_final.c.bak
+
+remove line begin with #<space>
+	sed '/^# /d' kernel_final.c >kernel_final.c.bak
+
+

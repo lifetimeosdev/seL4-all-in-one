@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.h": "c",
+		"*.c": "c",
+		"atomic": "c",
+		"cstdint": "c",
+		"random": "c",
+		"*.tcc": "c"
+	}
+}

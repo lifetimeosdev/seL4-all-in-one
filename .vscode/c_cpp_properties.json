@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"name": "Linux",
+			"defines": [],
+			"compilerPath": "/usr/bin/aarch64-linux-gnu-gcc",
+			"cppStandard": "c++14",
+			"intelliSenseMode": "gcc-arm64"
+		}
+	],
+	"version": 4
+}
